@@ -1,5 +1,5 @@
-Basmati rice- 2 cups
-Diced Potatoes – 2 medium
+#Basmati rice- 2 cups
+#Diced Potatoes – 2 medium
 Ginger garlic paste- 2tsp
 Sliced onions- 2
 Slit green chillies- 4
